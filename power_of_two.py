@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # Created by: Nathan Araujo
-# Created on: Oct 6 2022
+# Created on: Nov 6 2022
 # This program determines the squared of the users number and the numbers before it
 
 
